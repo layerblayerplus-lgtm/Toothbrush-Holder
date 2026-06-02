@@ -1,0 +1,1 @@
+most of my design is finished but I still have some small things that I may edit I mostly just want some feedback as I am new to hackclub and this is my first project thank you very much for your time
