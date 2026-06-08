@@ -5,14 +5,15 @@ Servo servo_5;
 
 void setup()
 {
-  pinMode(8, INPUT_PULLUP);
-  pinMode(10, INPUT_PULLUP);
+ pinMode(4, INPUT_PULLUP);
+ pinMode(8, INPUT_PULLUP);
+ pinMode(10, INPUT_PULLUP);
 
  servo_3.attach(3);
  servo_5.attach(5);
 
-  servo_3.write(90);
-  servo_5.write(90);
+ servo_3.write(0);
+ servo_5.write(0);
 
   pinMode(6, OUTPUT);
   pinMode(9, OUTPUT);
@@ -21,9 +22,13 @@ void setup()
 }
 
 void loop()
-{
-  if (digitalRead(8) == LOW) { 
-    if (digitalRead(10) == LOW) 
+{ if (digitalRead(4) == LOW) {
+    servo_3.write(90);
+    servo_5.write(90);   }
+  if (digitalRead(8) == LOW) {
+    servo_3.write(90);
+    servo_5.write(90);
+    if (digitalRead(10) == LOW)
       {
         digitalWrite(6, HIGH);
         delay(5000);
@@ -37,14 +42,17 @@ void loop()
         digitalWrite(13, HIGH);
         delay(500);
         digitalWrite(13, LOW);
+        servo_3.write(30);
+        servo_5.write(30);
       }
    else { digitalWrite(9, HIGH);
           delay(2500);
           digitalWrite(9, LOW);
 
-      }
-
+      
+     }
     }
   }
+
 
 
