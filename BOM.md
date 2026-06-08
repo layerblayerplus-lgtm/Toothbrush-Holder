@@ -1,4 +1,4 @@
-1 photoresistor for detecting if any light in the encloser
+1 photoresistor for detecting if any light in the enclosure
 
 1 2kΩ resistor  for calibrating the photoresistor to send signal at right light level
 
