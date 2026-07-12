@@ -3,7 +3,7 @@ I got insporation for how the tpu band holds the toothbrush from those broom hol
 This is a toothbrush holder which protects the toothbrush from bacteria by sheilding with 3d printed doors aswell as sterlizing the toothbrush using uvc light.
 The main thing I learned from this project was how to prototype by testing your projects while fixing the parts and debugging the code.
  
-                                      Cad model of project
+Cad model of project
 <img width="854" height="586" alt="Screenshot 2026-06-01 at 6 51 53 PM" src="https://github.com/user-attachments/assets/c865b9fc-9cb8-41dd-9693-68f7c69c41a0" />
                                       circut schmatic (tinkercad)
 <img width="687" height="427" alt="image" src="https://github.com/user-attachments/assets/f278cc07-9299-432c-b5de-008a178ce5df" />
