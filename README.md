@@ -18,6 +18,8 @@ Cad model of project
 <img width="854" height="586" alt="Screenshot 2026-06-01 at 6 51 53 PM" src="https://github.com/user-attachments/assets/c865b9fc-9cb8-41dd-9693-68f7c69c41a0" />
                                       Circut schmatic (tinkercad)
 <img width="687" height="427" alt="image" src="https://github.com/user-attachments/assets/f278cc07-9299-432c-b5de-008a178ce5df" />
+
+
         REAL wiring image (*Before I added photoresitor*)
 <img width="3024" height="4032" alt="IMG_3231 (1)" src="https://github.com/user-attachments/assets/0c90ae45-8c17-4f54-878d-354279e31269" />
 
