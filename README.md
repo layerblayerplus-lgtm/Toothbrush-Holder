@@ -1,5 +1,7 @@
-
+I built this because I was keeping my toothbrush in cup on my bathrooms shelf and thought it was kinda boring and unsanity so I chose to make this project 
+I got insporation for how the tpu band holds the toothbrush from those broom holder gripper on walls this was the thing that I esstaly based my desing off (the idea) but eneded up having work pretty diffrenty (https://shorturl.at/BZFGR)
 This is a toothbrush holder which protects the toothbrush from bacteria by sheilding with 3d printed doors aswell as sterlizing the toothbrush using uvc light.
+The main thing I learned from this project was how to prototype by testing your projects while fixing the parts and debugging the code.
 <img width="854" height="586" alt="Screenshot 2026-06-01 at 6 51 53 PM" src="https://github.com/user-attachments/assets/c865b9fc-9cb8-41dd-9693-68f7c69c41a0" />
 
 <img width="3024" height="4032" alt="IMG_3231 (1)" src="https://github.com/user-attachments/assets/0c90ae45-8c17-4f54-878d-354279e31269" />
