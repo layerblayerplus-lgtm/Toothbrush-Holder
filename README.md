@@ -20,7 +20,7 @@ Cad model of project
 <img width="687" height="427" alt="image" src="https://github.com/user-attachments/assets/f278cc07-9299-432c-b5de-008a178ce5df" />
 
 
-        REAL wiring image (*Before I added photoresitor*)
+REAL wiring image (*Before I added photoresitor*)
 <img width="3024" height="4032" alt="IMG_3231 (1)" src="https://github.com/user-attachments/assets/0c90ae45-8c17-4f54-878d-354279e31269" />
 
 
