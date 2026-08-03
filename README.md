@@ -18,7 +18,6 @@ The main thing I learned from this project was how to prototype by testing your 
 
 ## Cad model of project
 <img width="854" height="586" alt="Screenshot 2026-06-01 at 6 51 53 PM" src="https://github.com/user-attachments/assets/c865b9fc-9cb8-41dd-9693-68f7c69c41a0" />
-## Circut schmatic from tinkercad
 
 
 ## REAL wiring image (*Before I added photoresitor*)
