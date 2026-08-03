@@ -15,6 +15,7 @@ The main thing I learned from this project was how to prototype by testing your 
  
 ## Circut schmatic from tinkercad
 <img width="3024" height="4032" alt="IMG_3231 (2) (1)" src="https://github.com/user-attachments/assets/b4f6cde1-da6c-4537-a1e5-9febf331e5a4" />
+<img width="1050" height="627" alt="Screenshot 2026-08-03 at 11 31 50 AM" src="https://github.com/user-attachments/assets/cd48e5a6-0615-464e-9c56-55554adc8f63" />
 
 ## Cad model of project
 <img width="854" height="586" alt="Screenshot 2026-06-01 at 6 51 53 PM" src="https://github.com/user-attachments/assets/c865b9fc-9cb8-41dd-9693-68f7c69c41a0" />
