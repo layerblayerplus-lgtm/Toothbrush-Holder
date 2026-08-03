@@ -1,10 +1,10 @@
 ## WHY
 
-I built this because I was keeping my toothbrush in cup on my bathrooms shelf and thought it was kinda boring and unsanity so I chose to make this project 
+I built this because I was keeping my toothbrush in cup on my bathrooms shelf and thought it was kinda boring and unsanity so I chose to make this project.
 
 ## INSPIRATION
 
-I got inspiration for how the tpu band holds the toothbrush from those broom holder gripper on walls this was the thing that I based my design off (the idea) when I started but eneded up having it work very diffrenty (https://shorturl.at/BZFGR)
+I got inspiration for how the tpu band holds the toothbrush from those broom holder gripper on walls this was the thing that I based my design off (the idea) when I started but eneded up having it work very diffrently. (https://shorturl.at/BZFGR)
 
 ## PROJECT
 
@@ -12,6 +12,7 @@ This is a toothbrush holder which protects the toothbrush from bacteria by sheil
 
 ## WHAT I LEARNED
 The main thing I learned from this project was how to prototype by testing your projects while fixing the parts and debugging the code.
+I also improved my cad skills.
  
 ## Circut schmatic from tinkercad
 <img width="1050" height="627" alt="Screenshot 2026-08-03 at 11 31 50 AM" src="https://github.com/user-attachments/assets/cd48e5a6-0615-464e-9c56-55554adc8f63" />
