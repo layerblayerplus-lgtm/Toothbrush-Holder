@@ -1,3 +1,8 @@
+my built toothbrush holder
+<img width="828" height="1792" alt="IMG_3264" src="https://github.com/user-attachments/assets/1f9fec7e-25dc-4745-b69e-acffd33f68ae" />
+
+
+
 ## WHY
 
 I built this because I was keeping my toothbrush in cup on my bathrooms shelf and thought it was kinda boring and unsanity so I chose to make this project.
